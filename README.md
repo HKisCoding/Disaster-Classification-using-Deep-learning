@@ -7,4 +7,5 @@ Google drive for data used for checking the model: https://drive.google.com/driv
 The model that I have trained: https://drive.google.com/file/d/1I1q_mujfpgfgFvlp6QDbW0xAFA_vA47x/view?usp=sharing
 
 The confusion matrix of predict result:
+
 ![dowload](https://github.com/HKisCoding/Disaster-Classification-using-Deep-learning/blob/main/download.png)
